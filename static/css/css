@@ -38,7 +38,9 @@ body {
     margin-bottom: 40px;
     background: linear-gradient(45deg, #8a2be2, #ff00ff);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
+    color: transparent;
 }
 
 /* ===== MAIN CONTENT ===== */
